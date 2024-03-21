@@ -1,5 +1,4 @@
 import streamlit as st
-import MySQLdb
 import sqlalchemy
 from streamlit.connections import SQLConnection
 
